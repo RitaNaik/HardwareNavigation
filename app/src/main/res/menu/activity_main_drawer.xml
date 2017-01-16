@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/MakeACallFromApp"
+            android:icon="@drawable/ic_star_black"
+            android:title="Make A Call From App " />
+        <item
+            android:id="@+id/GetGPSLocation"
+            android:icon="@drawable/ic_star_black"
+            android:title="Get GPS Location" />
+        <item
+            android:id="@+id/TelephonyManager"
+            android:icon="@drawable/ic_star_black"
+            android:title="Telephony Manager" />
+        <item
+            android:id="@+id/CameraDemo"
+            android:icon="@drawable/ic_star_black"
+            android:title="Camera Demo" />
+
+        <item android:id="@+id/Bluetooth"
+            android:icon="@drawable/ic_star_black"
+            android:title="Bluetooth"/>
+
+        <item
+            android:id="@+id/Wifi"
+            android:title="WiFi"
+            android:icon="@drawable/ic_star_black" />
+
+        <item
+            android:id="@+id/SendSMS"
+            android:title="Send SMS"
+            android:icon="@drawable/ic_star_black"/>
+
+        <item
+            android:id="@+id/VideoPlay"
+            android:icon="@drawable/ic_star_black"
+            android:title="Video Play"
+            />
+
+    </group>
+
+
+
+</menu>
